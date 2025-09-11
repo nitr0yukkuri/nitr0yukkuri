@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
+![gradient](https://example.com/pink-gradient.png)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=radical&bg_color=FFB6C1&title_color=FF69B4&text_color=FFC0CB&icon_color=FF1493)
