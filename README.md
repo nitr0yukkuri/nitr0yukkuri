@@ -1,5 +1,4 @@
 ## Hi there 👋
 
-
-![gradient](https://example.com/pink-gradient.png)
+![pink-gradient](https://example.com/あなたの画像.png)
 
