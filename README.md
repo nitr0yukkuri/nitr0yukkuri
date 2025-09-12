@@ -1,4 +1,4 @@
-チキン南蛮好き😊
+# チキン南蛮好き😊
 
 <!-- 使用言語ランキング（1時間ごと更新） -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitr0yukkuri&layout=compact&theme=default)
