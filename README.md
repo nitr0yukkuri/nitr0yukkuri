@@ -2,7 +2,7 @@
 
 
 <!-- 使用言語ランキング -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitr0yukkuri&layout=compact&theme=black" alt="Top Langs" width="300"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitr0yukkuri&theme=light&layout=compact)
 
 <!-- GitHubステータス -->
 <img src="https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=light" alt="GitHub Stats" width="300"/>
