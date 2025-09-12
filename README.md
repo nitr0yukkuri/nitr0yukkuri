@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitr0yukkuri&theme=light&layout=compact)
 
 <!-- GitHubステータス -->
-<img src="https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=dark" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=react" alt="GitHub Stats"/>
 
 
 <!-- コントリビューション連続日数 -->
