@@ -1,5 +1,5 @@
 # 𝒚𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐!!!
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20aaaaaaaaaaaaaaaaaaaaaa)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=や%20)](https://github.com/kawarimidoll/typograssy)
 
 <!-- 使用言語ランキング -->
 <img 
