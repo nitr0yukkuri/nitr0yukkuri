@@ -7,9 +7,8 @@
   alt="Top Langs" 
 />
 
-<!-- GitHubステータス -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=react&cache_seconds=1800" 
+  src="https://github-readme-stats.vercel.app/api?username=nitr0yukkuri&show_icons=true&theme=react&cache_seconds=600" 
   alt="GitHub Stats" 
 />
 
