@@ -3,7 +3,7 @@
 
 <!-- 使用言語ランキング -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/username=nitr0yukkuri&theme=react&layout=compact&cache_seconds=1800" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitr0yukkuri&theme=react&layout=compact&cache_seconds=1800" 
   alt="Top Langs" 
 />
 
