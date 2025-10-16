@@ -1,4 +1,4 @@
-# 𝒚𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐!!!
+# 𝒚𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐!!!
 [![typograssy](https://typograssy.deno.dev/api?text=wa.%20)](https://github.com/kawarimidoll/typograssy)
 
 <!-- 使用言語ランキング -->
