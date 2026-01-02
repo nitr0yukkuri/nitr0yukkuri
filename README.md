@@ -18,3 +18,5 @@
   src="https://github-readme-streak-stats-eight.vercel.app/api/streak-stats?user=nitr0yukkuri&theme=react&cache_seconds=86400" 
   alt="GitHub Streak" 
 />
+![Spotify](https://spotify-github-profile.kittinanx.com/api/spotify?background_color=0d1117&border_color=ffffff)
+
