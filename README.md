@@ -2,7 +2,7 @@
 [![typograssy](https://typograssy.deno.dev/api?text=wa.%20)](https://github.com/kawarimidoll/typograssy)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nitr0yukkuri&theme=react)
+![GitHub Planet](https://githubplanet.onrender.com/api/card/nitr0yukkuri)
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sa6a2xpxn5g22qp61jw47mbvt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
