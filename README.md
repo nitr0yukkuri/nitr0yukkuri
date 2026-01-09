@@ -2,10 +2,6 @@
 ![typograssy](https://typograssy.deno.dev/api?text=wa.%20)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sa6a2xpxn5g22qp61jw47mbvt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile2)
-<div align="center">
-  <img src="front/img/GitHubPlanet_logo.png" width="80%" alt="GitHub Planet Logo">
-  
-  <br>
-  <br>
+
 
 ![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/6/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=responsive9)
