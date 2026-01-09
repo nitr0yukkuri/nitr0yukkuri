@@ -1,5 +1,6 @@
 # 𝒚𝒐𝒐𝒐𝒐𝒐𝒐𝒐𝒐!!!
-[![typograssy](https://typograssy.deno.dev/api?text=wa.%20)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=wa.%20)](https://github.com/kawarimidoll/typograssy
+![GitHub Planet](https://githubplanet.onrender.com/api/card/nitr0yukkuri?v=ok)
 
 
 ![GitHub Planet](https://githubplanet.onrender.com/api/card/nitr0yukkuri?v=final)
