@@ -5,3 +5,4 @@
 
 
 ![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/6/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=responsive9)
+[![Gitty Score](https://gitty-code.com/api/badge/nitr0yukkuri.png)](https://gitty-code.com/user/nitr0yukkuri)
