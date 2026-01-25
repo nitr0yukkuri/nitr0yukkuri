@@ -28,15 +28,15 @@
 
 ## 📊 Activity & Vibes
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=wakato" alt="typograssy" width="100%">
+  <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%">
   <br><br>
   
   <a href="https://gitty-code.com/user/nitr0yukkuri">
-    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" height="150" alt="Gitty Score">
+    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" height="210" alt="Gitty Score">
   </a>
   &nbsp;
   <a href="https://github.com/kittinan/spotify-github-profile2">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sa6a2xpxn5g22qp61jw47mbvt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" height="150" alt="Spotify">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sa6a2xpxn5g22qp61jw47mbvt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" height="210" alt="Spotify">
   </a>
 </div>
 
