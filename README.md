@@ -7,4 +7,4 @@
 ![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/6/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=responsive9)
 [![Gitty Score](https://gitty-code.com/api/badge/nitr0yukkuri.png)](https://gitty-code.com/user/nitr0yukkuri)
 
-[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=17692____78)](https://githubplanet.onrender.com/card.html?username=nitr0yukkuri)
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=17692____8)](https://githubplanet.onrender.com/card.html?username=nitr0yukkuri)
