@@ -2,17 +2,6 @@
 
 > **19yo  / 29卒 / 専門1年生** > *"Code with Vibes, Design with Logic."*
 
-<div align="center">
-  <a href="https://github.com/nitr0yukkuri">
-    <img src="https://img.shields.io/badge/Hackathon-Winner_🏆-gold?style=for-the-badge" alt="Hackathon Winner">
-  </a>
-  <a href="https://github.com/nitr0yukkuri">
-    <img src="https://img.shields.io/badge/Status-Prototyping_🚀-blue?style=for-the-badge" alt="Status">
-  </a>
-  <a href="https://github.com/nitr0yukkuri">
-    <img src="https://img.shields.io/badge/Food-Chicken_Nanban_🍗-orange?style=for-the-badge" alt="Chicken Nanban">
-  </a>
-</div>
 
 <br>
 
