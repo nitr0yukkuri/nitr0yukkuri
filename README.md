@@ -1,7 +1,6 @@
 # Hi there, I'm Wakato 👋
 
-> **19yo  / 29卒 / 専門1年生** > *"Code with Vibes, Design with Logic."*
-
+> **19yo Developer / 29卒 / 専門1年生** > *"Code with Vibes."*
 
 <br>
 
@@ -17,19 +16,19 @@
 ---
 
 ## 🛠 Tech Stack
-ただ書けるだけでなく、**「体験」を作るための技術**を選定しています。
+**「体験」を作るための技術**を選定しています。
 
 | Category | Techs |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Design/Arch** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) **DDD / Clean Architecture** |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
 
 ## 📊 Activity & Vibes
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%">
+  <img src="https://typograssy.deno.dev/api?text=wakato" alt="typograssy" width="100%">
   <br><br>
   
   <a href="https://gitty-code.com/user/nitr0yukkuri">
