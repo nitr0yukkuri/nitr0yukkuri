@@ -29,7 +29,7 @@
 
 ## 📊 Activity & Vibes
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=wakato" alt="typograssy" width="100%">
+  <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%">
   <br><br>
   
   <a href="https://gitty-code.com/user/nitr0yukkuri">
