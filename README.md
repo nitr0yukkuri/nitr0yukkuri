@@ -36,9 +36,6 @@
       alt="Gitty Score">
   </a>
   &nbsp;
-  <a href="https://github.com/kittinan/spotify-github-profile2">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sa6a2xpxn5g22qp61jw47mbvt&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" height="210" alt="Spotify">
-  </a>
 </div>
 
 <div align="right">
