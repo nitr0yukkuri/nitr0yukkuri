@@ -32,7 +32,8 @@
   <br><br>
   
   <a href="https://gitty-code.com/user/nitr0yukkuri">
-    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" height="210" alt="Gitty Score">
+    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" 
+      alt="Gitty Score">
   </a>
   &nbsp;
   <a href="https://github.com/kittinan/spotify-github-profile2">
