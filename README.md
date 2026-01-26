@@ -10,6 +10,7 @@
   <a href="https://githubplanet.onrender.com/card.html?username=nitr0yukkuri">
     <img src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=1769___" width="100%" alt="GitHub Planet Card">
   </a>
+  [![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=1769424224394)](https://githubplanet.onrender.com/)
   <p>☝️ Click to see my planet!</p>
 </div>
 
