@@ -44,9 +44,7 @@
 </div>
 
 
-（ここに空行）
-
 [![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=1769424224394)](https://githubplanet.onrender.com/)
 
-（ここに空行）
+
 
