@@ -16,7 +16,7 @@
 
 ---
 
-[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=1769821822934)](https://githubplanet.onrender.com/)
+
 ## 🛠 Tech Stack
 **「体験」を作るための技術**を選定しています。
 
