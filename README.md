@@ -8,7 +8,7 @@
 **自身で開発した「GitHub Planet」で、GitHub活動を可視化しています。**
 <div align="center">
   <a href="https://githubplanet.onrender.com/">
-    <img src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=1769___" width="100%" alt="GitHub Planet Card">
+    <img src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.onrender.com/card.html?username=nitr0yukkuri&fix=true&time=176___" width="100%" alt="GitHub Planet Card">
   </a>
 
   <p>☝️ Click to see my planet!</p>
