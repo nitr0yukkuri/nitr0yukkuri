@@ -14,16 +14,13 @@
   <p>☝️ Click to see my planet!</p>
 </div>
 
----
-
-
 ## 🛠 Tech Stack
-**「体験」を作るための技術**を選定しています。
-
+**「体験」と「パフォーマンス」を両立させるための技術**を選定しています。
 
 | Category | Techs |
 | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Creative Experience**| ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=react&logoColor=61DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-333333?style=flat-square) ![Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
 | **Mobile** | ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square) |
 | **API** | ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
