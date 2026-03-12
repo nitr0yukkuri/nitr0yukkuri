@@ -20,10 +20,7 @@
 ## 🛠 Tech Stack
 **「体験」を作るための技術**を選定しています。
 
-## 🛠 Tech Stack
-**「体験」を作るための技術**を選定しています。
-## 🛠 Tech Stack
-**「体験」を作るための技術**を選定しています。
+
 
 | Category | Techs |
 | :--- | :--- |
@@ -34,6 +31,7 @@
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 | **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 ## 📊 Activity & Vibes
+
 <div align="center">
   <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%">
   <br><br>
