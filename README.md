@@ -9,8 +9,10 @@
 **自身で開発した「GitHub Planet」で、GitHub活動を可視化しています。**
 <div align="center">
   <a href="https://githubplanet.onrender.com/">
-   [![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri&fix=true&time=1775105461827)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
+    <img src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri&fix=true" />
   </a>
+</div>
+
 
   <p>☝️ Click to see my planet!</p>
 </div>
