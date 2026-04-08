@@ -2,6 +2,7 @@
 
 
 > **19yo Developer / 29卒 / 専門2年生** > *"Code with Vibes."*
+> 🏆 [CSS Winner SOTD Portfolio](https://www.csswinner.com/details/wakato-3d-portfolio/19159)  
 
 <br>
 
