@@ -1,9 +1,8 @@
 # Hi there, I'm Wakato 👋
 
-
-> **19yo Developer / 29卒 / 専門2年生** > *"Code with Vibes."*
+> **19yo Developer / 29卒 / 専門2年生**  
 > 🏆 [CSS Winner SOTD Portfolio](https://www.csswinner.com/details/wakato-3d-portfolio/19159)  
-
+> *"Code with Vibes."*
 <br>
 
 ## 🪐 My Masterpiece
