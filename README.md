@@ -10,6 +10,7 @@
     <img src="preview.gif" alt="Live Weather" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" />
   </a>
 </div>
+
 ## 🪐 My Masterpiece
 **自身で開発した「GitHub Planet」で、GitHub活動を可視化しています。**
 
