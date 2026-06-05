@@ -1,10 +1,15 @@
 # Hi there, I'm Wakato 👋
 
-> **19yo Developer / 29卒 / 専門2年生**  
-> 🏆 [CSS Winner SOTD Portfolio](https://www.csswinner.com/details/wakato-3d-portfolio/19159)  
+> **19yo Developer / 29卒 / 専門2年生** > 🏆 [CSS Winner SOTD Portfolio](https://www.csswinner.com/details/wakato-3d-portfolio/19159)  
 > *"Code with Vibes."*
-<br>
 
+<br />
+
+<div align="center">
+  <a href="https://wakato.tech">
+    <img src="preview.gif" alt="Live Weather" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" />
+  </a>
+</div>
 ## 🪐 My Masterpiece
 **自身で開発した「GitHub Planet」で、GitHub活動を可視化しています。**
 
