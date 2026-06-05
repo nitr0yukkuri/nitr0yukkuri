@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://wakato.tech">
-    <img src="preview.gif" alt="Live Weather" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" />
+    <img src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/main/preview.gif" alt="Live Weather" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" />
   </a>
 </div>
 
