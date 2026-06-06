@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### Enter the World Beyond the Click →
+### Enter the World Beyond the Click ↓
 
 <a href="https://wakato.tech">
   <img
