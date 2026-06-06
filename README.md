@@ -6,9 +6,19 @@
 <br />
 
 <div align="center">
-  <a href="https://wakato.tech">
-    <img src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/main/preview.gif" alt="Live Weather" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);" />
-  </a>
+
+### Enter the World Beyond the Click →
+
+<a href="https://wakato.tech">
+  <img
+    src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/main/preview.gif"
+    alt="wakato.tech"
+    width="100%"
+  />
+</a>
+
+*Beyond projects, beyond code — explore a digital world crafted from ideas and experimentation.*
+
 </div>
 
 
