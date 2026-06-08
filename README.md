@@ -1,71 +1,90 @@
-# Hi there, I'm Wakato 👋
-
-> **19yo Developer / 29卒 / 専門2年生** > 🏆 [CSS Winner SOTD Portfolio](https://www.csswinner.com/details/wakato-3d-portfolio/19159)  
-> *"Code with Vibes."*
-
-<br />
-
 <div align="center">
 
-### Enter the World Beyond the Click ↓
+# WAKATO
+
+### 19yo Developer / 29卒 / 専門2年生
+
+<a href="https://www.csswinner.com/details/wakato-3d-portfolio/19159">
+  <img src="https://img.shields.io/badge/CSS%20Winner-SOTD%202026-F5C542?style=for-the-badge" />
+</a>
+<a href="https://wakato.tech">
+  <img src="https://img.shields.io/badge/ENTER-wakato.tech-00E5FF?style=for-the-badge" />
+</a>
+
+<br />
+<br />
+
+> **Code with Vibes.**  
+> Building living interfaces where code, motion, weather, and emotion become one atmosphere.
+
+<br />
 
 <a href="https://wakato.tech">
   <img
     src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/main/preview.gif"
-    alt="wakato.tech"
+    alt="Enter wakato.tech"
     width="100%"
   />
 </a>
 
-*Beyond projects, beyond code — explore a digital world crafted from ideas and experimentation.*
+<br />
+
+### ENTER THE LIVING PLANET
+
+Beyond projects, beyond code.  
+A portfolio that breathes with weather, motion, and real-time digital atmosphere.
 
 </div>
 
+<br />
 
-## 🪐 My Masterpiece
-**自身で開発した「GitHub Planet」で、GitHub活動を可視化しています。**
+## Masterpiece
+
+**GitHub Planet** turns GitHub activity into a living 3D planet.
 
 <div align="center">
   <a href="https://githubplanet-git-543426763451.asia-northeast2.run.app/">
-    <img src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/15/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri&fix=true" />
+    <img
+      src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/15/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri&fix=true"
+      alt="GitHub Planet"
+      width="100%"
+    />
   </a>
+
+  <br />
+
+  <sub>Click to see my planet.</sub>
 </div>
 
+<br />
 
-  <p>☝️ Click to see my planet!</p>
-  
-</div>
- 
-## 🛠 Tech Stack
-**「体験」と「パフォーマンス」を両立させるための技術**を選定しています。
+## Tech Stack
 
-| Category | Techs |
+Technologies selected to balance **immersive experience** and **performance**.
+
+| Area | Stack |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Creative Experience**| ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=react&logoColor=61DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-333333?style=flat-square) ![Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **Mobile** | ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square) |
-| **API** | ![REST](https://img.shields.io/badge/REST%20API-02569B?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
-| **Realtime** | ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socketdotio&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **Web Capabilities** | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
-| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
-| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Creative** | ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/R3F-black?style=flat-square&logo=react&logoColor=61DAFB) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GLSL](https://img.shields.io/badge/GLSL-333333?style=flat-square) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square) |
+| **Data / Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white) |
+| **Design / Mobile** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
 
-## 📊 Activity & Vibes
+<br />
+
+## Activity
 
 <div align="center">
-  <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%">
-  <br><br>
-  
+  <img src="https://typograssy.deno.dev/api?text=wa." alt="typograssy" width="100%" />
+  <br />
+  <br />
   <a href="https://gitty-code.com/user/nitr0yukkuri">
-    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" 
-      alt="Gitty Score">
+    <img src="https://gitty-code.com/api/badge/nitr0yukkuri.png" alt="Gitty Score" />
   </a>
-  &nbsp;
 </div>
 
+<br />
+
 <div align="right">
-  <small>Profile generated by <i>Visual Studio Code</i> & <i>My Passion</i></small>
+  <sub>Crafted with Visual Studio Code and unreasonable curiosity.</sub>
 </div>
