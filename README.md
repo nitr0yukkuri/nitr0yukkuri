@@ -1,6 +1,9 @@
+<div align="center">
+
 # WAKATO
 
 ### 19yo Developer / 29卒 / 専門2年生
+
 
 <div align="center">
   <a href="https://wakato.tech">
@@ -8,8 +11,11 @@
   </a>
 </div>
 
+
 <br />
 <br />
+
+
 
 <br />
 
@@ -17,6 +23,8 @@
 
 Beyond projects, beyond code.  
 A portfolio that breathes with weather, motion, and real-time digital atmosphere.
+
+</div>
 
 <br />
 
