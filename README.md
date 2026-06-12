@@ -15,18 +15,7 @@
 <br />
 <br />
 
-> **Code with Vibes.**  
-> Building living interfaces where code, motion, weather, and emotion become one atmosphere.
 
-<br />
-
-<a href="https://wakato.tech">
-  <img
-    src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/main/preview.gif"
-    alt="Enter wakato.tech"
-    width="100%"
-  />
-</a>
 
 <br />
 
