@@ -4,12 +4,13 @@
 
 ### 19yo Developer / 29卒 / 専門2年生
 
-<a href="https://www.csswinner.com/details/wakato-3d-portfolio/19159">
-  <img src="https://img.shields.io/badge/CSS%20Winner-SOTD%202026-F5C542?style=for-the-badge" />
-</a>
-<a href="https://wakato.tech">
-  <img src="https://img.shields.io/badge/ENTER-wakato.tech-00E5FF?style=for-the-badge" />
-</a>
+
+<div align="center">
+  <a href="https://wakato.tech">
+    <img src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/preview-assets/preview.gif" alt="WAKATO | Living Planet preview" width="800" />
+  </a>
+</div>
+
 
 <br />
 <br />
