@@ -33,15 +33,10 @@ A portfolio that breathes with weather, motion, and real-time digital atmosphere
 **GitHub Planet** turns GitHub activity into a living 3D planet.
 
 <div align="center">
-  <a href="https://githubplanet-git-543426763451.asia-northeast2.run.app/">
-    <img
-      src="https://image.thum.io/get/width/800/crop/400/noanimate/wait/15/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri&fix=true"
-      alt="GitHub Planet"
-      width="100%"
-    />
-  </a>
 
-  <br />
+[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/wait/3/https://githubplanet-git-543426763451.asia-northeast2.run.app/card.html?username=nitr0yukkuri%26fix=true%26time=1785112034315)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
+
+</div>
 
   <sub>Click to see my planet.</sub>
 </div>
