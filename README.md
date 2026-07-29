@@ -34,7 +34,7 @@ A portfolio that breathes with weather, motion, and real-time digital atmosphere
 
 <div align="center">
 
-[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/?url=https%3A%2F%2Fgithubplanet-git-543426763451.asia-northeast2.run.app%2Fcard.html%3Fusername%3Dnitr0yukkuri%26fix%3Dtrue%26time%3D1785112034315)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
+[![GitHub Planet](https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
 
 </div>
 
