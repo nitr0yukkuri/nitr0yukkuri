@@ -1,11 +1,45 @@
+<div align="center">
 
+# WAKATO
+
+### 19yo Developer / 29卒 / 専門2年生
+
+
+<div align="center">
+  <a href="https://wakato.tech">
+    <img src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/preview-assets/preview.gif" alt="WAKATO | Living Planet preview" width="800" />
+  </a>
+</div>
+
+
+<br />
+<br />
+
+
+
+<br />
+
+### ENTER THE LIVING PLANET
+
+Beyond projects, beyond code.  
+A portfolio that breathes with weather, motion, and real-time digital atmosphere.
+
+</div>
+
+<br />
+
+## Masterpiece
 
 **GitHub Planet** turns GitHub activity into a living 3D planet.
 
 <div align="center">
 
-[![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.dev/card.html?username=nitr0yukkuri&fix=true)](https://githubplanet.dev/card.html?username=nitr0yukkuri)
+[![GitHub Planet](https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
 
+</div>
+
+  <sub>Click to see my planet.</sub>
+</div>
 
 <br />
 
