@@ -1,4 +1,36 @@
+<div align="center">
 
+# WAKATO
+
+### 19yo Developer / 29卒 / 専門2年生
+
+
+<div align="center">
+  <a href="https://wakato.tech">
+    <img src="https://raw.githubusercontent.com/nitr0yukkuri/wakatopo/preview-assets/preview.gif" alt="WAKATO | Living Planet preview" width="800" />
+  </a>
+</div>
+
+
+<br />
+<br />
+
+
+
+<br />
+
+### ENTER THE LIVING PLANET
+
+Beyond projects, beyond code.  
+A portfolio that breathes with weather, motion, and real-time digital atmosphere.
+
+</div>
+
+<br />
+
+## Masterpiece
+
+**GitHub Planet** turns GitHub activity into a living 3D planet.
 
 <div align="center">
 
