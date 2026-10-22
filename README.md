@@ -36,10 +36,6 @@ A portfolio that breathes with weather, motion, and real-time digital atmosphere
 
 [![GitHub Planet](https://image.thum.io/get/width/800/crop/400/noanimate/wait/8/https://githubplanet.dev/card.html?username=nitr0yukkuri&fix=true)](https://githubplanet.dev/card.html?username=nitr0yukkuri)
 
-</div>
-
-  <sub>Click to see my planet.</sub>
-</div>
 
 <br />
 
