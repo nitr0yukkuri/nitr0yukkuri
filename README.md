@@ -2,7 +2,7 @@
 
 # WAKATO
 
-### 19yo Developer / 29卒 / 専門2年生
+### 20yo Developer / 29卒 / 専門2年生
 
 
 <div align="center">
