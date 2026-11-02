@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<a href="https://githubplanet.dev/card.html?username=nitr0yukkuri">
+<a href="https://githubplanet.dev/card.html?username=nitr0yukkuri&amp;fix=true">
   <img src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" width="800" alt="nitr0yukkuri's animated GitHub Planet. Click to open the interactive card." />
 </a>
 
 <p>
-  <a href="https://githubplanet.dev/demo?showcase=typescript">Try the login-free demo</a> ·
+  <a href="https://githubplanet.dev/card.html?showcase=typescript">Try the login-free demo</a> ·
   <a href="https://github.com/nitr0yukkuri/githubplanet">View source · Star on GitHub</a>
 </p>
 </div>
