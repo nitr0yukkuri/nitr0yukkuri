@@ -1,11 +1,14 @@
 
 <div align="center">
 
-[![GitHub Planet](https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif)](https://githubplanet-git-543426763451.asia-northeast2.run.app/)
+<a href="https://githubplanet.dev/card.html?username=nitr0yukkuri&amp;fix=true">
+  <img src="https://raw.githubusercontent.com/nitr0yukkuri/githubplanet/card-assets/profile_card.gif" width="800" alt="nitr0yukkuri's animated GitHub Planet. Click to open the interactive card." />
+</a>
 
-</div>
-
-  <sub>Click to see my planet.</sub>
+<p>
+  <a href="https://githubplanet.dev/card.html?showcase=typescript">Try the login-free demo</a> ·
+  <a href="https://github.com/nitr0yukkuri/githubplanet">View source · Star on GitHub</a>
+</p>
 </div>
 
 <br />
