@@ -37,7 +37,7 @@ A portfolio that breathes with weather, motion, and real-time digital atmosphere
 
 ## Tech Stack
 
-Technologies I've used to build interactive products, real-time systems, and deployment and testing workflows.
+Technologies used across projects I've worked on, from interactive products and real-time systems to deployment and testing.
 
 | Area | Stack |
 | :--- | :--- |
@@ -49,13 +49,12 @@ Technologies I've used to build interactive products, real-time systems, and dep
 | **Testing / Automation** | ![Playwright](https://img.shields.io/badge/Playwright-276749?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2467B5?style=flat-square&logo=githubactions&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-2F6E2F?style=flat-square&logo=ffmpeg&logoColor=white) ![k6](https://img.shields.io/badge/k6-5842A6?style=flat-square&logo=k6&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-44671B?style=flat-square&logo=vitest&logoColor=white) ![CodeQL](https://img.shields.io/badge/CodeQL-333333?style=flat-square&logo=github&logoColor=white) |
 | **Design / Mobile / Desktop** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-34475B?style=flat-square&logo=electron&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-236174?style=flat-square&logo=react&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-6D45C4?style=flat-square&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-9A420B?style=flat-square&logo=rust&logoColor=white) |
 | **AI / Tooling** | ![Python](https://img.shields.io/badge/Python-346B99?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-353535?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-20796F?style=flat-square&logo=fastapi&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-18634D?style=flat-square) |
-| **Embedded** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![M5StickC](https://img.shields.io/badge/M5StickC-535353?style=flat-square) |
 
-### How I use them
+### Project examples
 
 - **[GitHub Planet](https://github.com/nitr0yukkuri/githubplanet/blob/main/docs/cloudflare-cutover.md)** moved from Cloud Run to Cloudflare Workers. Hyperdrive connects to Neon Postgres, Queues process background jobs, and Durable Objects handle real-time WebSocket connections.
 - **[Tech Fishing](https://github.com/nitr0yukkuri/gijutu-turi#アーキテクチャ)** keeps PC and phone clients in sync through Durable Objects and WebSockets. The server runs game updates at 20 Hz during active play, and D1 stores catch events using unique keys to prevent duplicate counts.
-- **[Okimochi Board](https://github.com/nitr0yukkuri/okimotibo-do)** uses Go for WebSocket sync, Supabase Auth and Postgres row-level security for room access, and Redis Pub/Sub for events across pods. It includes a local kind setup, a k6 WebSocket test, and an M5StickC prototype.
+- **[Okimochi Board](https://github.com/nitr0yukkuri/okimotibo-do)** uses Go for WebSocket sync, Supabase Auth and Postgres row-level security for room access, and Redis Pub/Sub for events across pods. It includes a local kind setup and a k6 WebSocket test.
 - **[ColdKeep](https://github.com/nitr0yukkuri/coldkeep#技術構成)** records audio through a Kotlin module in a React Native app and can use a Rust inference path on Android, with a TypeScript fallback.
 - **[Slidair](https://github.com/nitr0yukkuri/slidair/blob/main/mcp-server.mjs)** exposes deck tools through an MCP server with integration tests.
 
