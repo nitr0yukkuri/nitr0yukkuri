@@ -58,6 +58,12 @@ Technologies used across projects I've worked on, from interactive products and 
 - **[ColdKeep](https://github.com/nitr0yukkuri/coldkeep#技術構成)** records audio through a Kotlin module in a React Native app and can use a Rust inference path on Android, with a TypeScript fallback.
 - **[Slidair](https://github.com/nitr0yukkuri/slidair/blob/main/mcp-server.mjs)** exposes deck tools through an MCP server with integration tests.
 
+### Architecture
+
+- **Layer boundaries** — GitHub Planet is a modular monolith that separates HTTP handling, application use cases, domain rules, and infrastructure adapters. [Architecture and dependency direction](https://github.com/nitr0yukkuri/githubplanet#技術構成)
+- **Real-time state ownership** — Tech Fishing keeps game state authoritative on the server. Clients send inputs and interpolate received snapshots for rendering. [Game architecture](https://github.com/nitr0yukkuri/gijutu-turi#アーキテクチャ)
+- **Architecture Decision Records (ADRs)** — Jobhun records decisions about responsibility boundaries and technology choices, along with the reasons behind them. [Decision records](https://github.com/nitr0yukkuri/shisukai_koki_egui/tree/main/docs/adr)
+
 <br />
 
 ## Activity
