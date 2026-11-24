@@ -1,0 +1,59 @@
+name: Update profile anniversaries
+
+on:
+  schedule:
+    - cron: "17 0 1,15 * *"
+      timezone: "Asia/Tokyo"
+    - cron: "17 0 29 9 *"
+      timezone: "Asia/Tokyo"
+  workflow_dispatch:
+    inputs:
+      update:
+        description: "Update anniversaries that have already arrived"
+        type: choice
+        required: true
+        default: both
+        options:
+          - both
+          - age
+          - school
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-anniversaries
+  cancel-in-progress: false
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Update age and school year
+        env:
+          UPDATE_MODE: ${{ github.event.inputs.update || 'both' }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+        run: python .github/scripts/update-profile-anniversaries.py
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No README changes are due."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update profile anniversaries"
+
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
