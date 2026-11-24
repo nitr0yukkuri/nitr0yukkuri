@@ -9,13 +9,13 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[2]
 README_PATH = ROOT / "README.md"
 HEADING_RE = re.compile(
-    r"(?m)^### (?P<age>\\d+)yo Developer / 29卒 / 専門(?P<school>\\d+)年生$"
+    r"(?m)^### (?P<age>\d+)yo Developer / 29卒 / 専門(?P<school>\d+)年生$"
 )
 STATE_RE = re.compile(
     r"(?m)^<!-- profile-anniversaries: "
-    r"age=(?P<age>\\d+); age-year=(?P<age_year>\\d{4}); "
-    r"school=(?P<school>\\d+); school-year=(?P<school_year>\\d{4}); "
-    r"heartbeat=(?P<heartbeat>\\d{4}-\\d{2}) -->$"
+    r"age=(?P<age>\d+); age-year=(?P<age_year>\d{4}); "
+    r"school=(?P<school>\d+); school-year=(?P<school_year>\d{4}); "
+    r"heartbeat=(?P<heartbeat>\d{4}-\d{2}) -->$"
 )
 
 
@@ -65,9 +65,7 @@ def main() -> int:
         if current_month > heartbeat:
             next_heartbeat = current_month
 
-    new_heading = (
-        f"### {age}yo Developer / 29卒 / 専門{school_year}年生"
-    )
+    new_heading = f"### {age}yo Developer / 29卒 / 専門{school_year}年生"
     new_state = (
         "<!-- profile-anniversaries: "
         f"age={age}; age-year={age_year}; "
